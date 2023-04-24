@@ -283,6 +283,6 @@ The data workflow could then consist of:
  - a github/gitlab repository that version controles everything you do with your data (most importantly, analysis scripts)
  - a secure location to store raw data and not touch or change it: read-only. 
  - a data repositorie that stores the to be used data your are analysing and collaborating on. Usually organisations have something in place, for instance Research Drive, dedicated servers or even google drive.
-
+<3
 
 
